@@ -261,7 +261,7 @@ while True:
 
 
     
-    # Finally Generating response based on the 
+    # Finally Generating response based on the most relevant context
     system_prompt = f"""
     You are an intelligent AI assistant designed to answer user queries using the given context. Your job is to extract relevant information *strictly* from the context and respond in a specific JSON format.
 
